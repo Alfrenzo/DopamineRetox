@@ -23,17 +23,21 @@ This game takes everything that modern hyper-stimulation games do to keep you ho
 - 🎰 **Infinite Dopamine Loop** — Designed to feel rewarding while meaning absolutely nothing
 - 😵 **Satirical Commentary** — A tongue-in-cheek jab at games engineered to exploit your attention
 
+---
+
+## 📸 Screenshots
+
 | |
 |---|
 | ![Screenshot 1](DopamineRetox.png)
+
+---
 
 ## 🛠️ Built With
 
 - **Roblox Studio**
 - **Lua** — all game logic and UI scripting
 - Intense brain explosions
-
-🔗 [Roblox Profile](#) • [Portfolio](#) • [GitHub](#)
 
 ---
 
