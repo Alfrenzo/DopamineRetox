@@ -25,7 +25,7 @@ This game takes everything that modern hyper-stimulation games do to keep you ho
 
 | |
 |---|
-| ![Screenshot 1](https://placehold.co/580x320/1a1a2e/ff0066?text=GAMEPLAY+SCREENSHOT+1)
+| ![Screenshot 1](DopamineRetox.png)
 
 ## 🛠️ Built With
 
